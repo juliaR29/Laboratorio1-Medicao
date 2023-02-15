@@ -1,7 +1,7 @@
 import requests
 import json
 
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 url = 'https://api.github.com/graphql'
 
 query = """
@@ -32,6 +32,5 @@ for i, repo in enumerate(data["data"]["search"]["edges"]):
     nameWithOwner = repo['node']['nameWithOwner']
     issues = repo['node']['issues']['totalCount']
     closedIssues = repo['node']['closedIssues']['totalCount']
-    print(f"{i + 1}. Nome com autor: {nameWithOwner} - Total de issues: {issues} - Issues fechadas: {closedIssues} ")
-
-
+    print(f"{i + 1}. Nome com autor: {nameWithOwner} - Total de issues: {issues} - Issues fechadas: {closedIssues} - "
+          f"Razão entre total e fechadas: {issues - closedIssues} ")

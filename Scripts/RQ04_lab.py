@@ -9,7 +9,7 @@ query = """
 query { 
   search(
     type:REPOSITORY,
-    query:"is:public sort:updated",
+    query: "stars:>100"
     first: 100
   ) {
     edges{
@@ -35,7 +35,10 @@ for i, repo in enumerate(data["data"]["search"]["edges"]):
     created_date = datetime.strptime(createdAt, '%Y-%m-%dT%H:%M:%SZ').date()
     updated_date = datetime.strptime(updatedAt, '%Y-%m-%dT%H:%M:%SZ').date()
 
-    print(f"{i + 1}. Última atualização: {updatedAt} - Data de criação: {createdAt} - Nome: {repoName}")
+    differenceInDays = updated_date - created_date
+
+    print(f"{i + 1}. Data de criação: {createdAt} - Última atualização: {updatedAt}  "
+          f"Dias de diferença: {differenceInDays} - Nome: {repoName}")
 
 
 
