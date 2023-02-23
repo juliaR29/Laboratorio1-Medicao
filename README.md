@@ -1,4 +1,4 @@
-# Sprint1 Laboratório de Experimentação de Software
+# Laboratório de Experimentação de Software
 
 RQ 01. Sistemas populares são maduros/antigos?
 
