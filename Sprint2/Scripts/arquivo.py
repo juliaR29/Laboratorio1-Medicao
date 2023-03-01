@@ -22,9 +22,13 @@ query {
         primaryLanguage {
             name
           }
+        issues(first: 1) {
+            totalCount
+          }
         closedIssues: issues (states: CLOSED){
             totalCount
           }
+        updatedAt
       }
     }
   }
@@ -36,16 +40,23 @@ response = requests.post(url, headers=headers, json={"query": query})
 data = response.json()['data']['search']['nodes']
 
 with open('repos.csv', mode='w', encoding='utf-8', newline='') as csv_file:
-    fieldnames = ['nameWithOwner', 'stargazerCount', 'createdAt', 'pullRequests', 'releases', 'primaryLanguage',
-                  'closedIssues']
+    fieldnames = ['nameWithOwner', 'stargazerCount', 'age', 'pullRequests', 'releases', 'primaryLanguage',
+                  'issues', 'closedIssues', 'issuesRatio', 'updatedAt']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
     writer.writeheader()
 
     for repo in data:
+        language = repo['primaryLanguage']['name'] if repo['primaryLanguage'] is not None else ""
+        created_at = datetime.strptime(repo['createdAt'], "%Y-%m-%dT%H:%M:%SZ")
+        age = (datetime.now() - created_at).days
+        issues = repo['issues']['totalCount'] if 'issues' in repo else 0
+        closed_issues = repo['closedIssues']['totalCount'] if 'closedIssues' in repo else 0
+        issues_ratio = closed_issues / issues if issues != 0 else 'N/A'
         writer.writerow({'nameWithOwner': repo['nameWithOwner'], 'stargazerCount': repo['stargazerCount'],
-                         'createdAt': repo['createdAt'], 'pullRequests': repo['pullRequests'],
+                         'age': age, 'pullRequests': repo['pullRequests'],
                          'releases': repo['releases'], 'primaryLanguage': repo['primaryLanguage'],
-                         'closedIssues': repo['closedIssues']})
+                         'issues': repo['issues'], 'closedIssues': repo['closedIssues'],
+                         'issuesRatio': issues_ratio, 'updatedAt': repo['updatedAt']})
 
 
