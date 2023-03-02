@@ -1,0 +1,1001 @@
+nameWithOwner,stargazerCount,age,pullRequests,releases,primaryLanguage,issues,closedIssues,issuesRatio,updatedAt
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154376,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:04:03Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162011,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-01T23:51:48Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
+freeCodeCamp/freeCodeCamp,362276,2989,{'totalCount': 19281},{'totalCount': 0},{'name': 'TypeScript'},{'totalCount': 16712},{'totalCount': 16557},0.9907252273815222,2023-03-02T00:31:08Z
+EbookFoundation/free-programming-books,269266,3428,{'totalCount': 5590},{'totalCount': 0},,{'totalCount': 910},{'totalCount': 885},0.9725274725274725,2023-03-02T00:28:03Z
+996icu/996.ICU,265192,1436,{'totalCount': 1063},{'totalCount': 0},,{'totalCount': 0},{'totalCount': 0},N/A,2023-03-01T19:37:50Z
+jwasham/coding-interview-university,250059,2459,{'totalCount': 359},{'totalCount': 0},,{'totalCount': 383},{'totalCount': 339},0.8851174934725848,2023-03-01T23:12:58Z
+sindresorhus/awesome,241024,3155,{'totalCount': 607},{'totalCount': 0},,{'totalCount': 320},{'totalCount': 297},0.928125,2023-03-01T23:39:20Z
+kamranahmedse/developer-roadmap,231490,2177,{'totalCount': 1454},{'totalCount': 1},{'name': 'Astro'},{'totalCount': 906},{'totalCount': 757},0.8355408388520972,2023-03-02T00:17:39Z
+public-apis/public-apis,229616,2536,{'totalCount': 1871},{'totalCount': 0},{'name': 'Python'},{'totalCount': 444},{'totalCount': 416},0.9369369369369369,2023-03-02T00:33:45Z
+donnemartin/system-design-primer,212707,2194,{'totalCount': 195},{'totalCount': 0},{'name': 'Python'},{'totalCount': 244},{'totalCount': 71},0.29098360655737704,2023-03-02T00:29:32Z
+facebook/react,203090,3568,{'totalCount': 8821},{'totalCount': 99},{'name': 'JavaScript'},{'totalCount': 12068},{'totalCount': 11139},0.9230195558501822,2023-03-01T23:29:46Z
+vuejs/vue,202562,3502,{'totalCount': 1118},{'totalCount': 245},{'name': 'TypeScript'},{'totalCount': 9947},{'totalCount': 9586},0.9637076505479039,2023-03-01T23:51:29Z
+codecrafters-io/build-your-own-x,191638,1757,{'totalCount': 112},{'totalCount': 0},,{'totalCount': 540},{'totalCount': 377},0.6981481481481482,2023-03-02T00:15:12Z
+tensorflow/tensorflow,171710,2671,{'totalCount': 15748},{'totalCount': 185},{'name': 'C++'},{'totalCount': 36760},{'totalCount': 34722},0.9445593035908596,2023-03-01T23:36:09Z
+getify/You-Dont-Know-JS,165379,3392,{'totalCount': 356},{'totalCount': 0},,{'totalCount': 908},{'totalCount': 825},0.9085903083700441,2023-03-01T23:58:59Z
+trekhleb/javascript-algorithms,163997,1803,{'totalCount': 280},{'totalCount': 0},{'name': 'JavaScript'},{'totalCount': 312},{'totalCount': 204},0.6538461538461539,2023-03-02T00:17:30Z
+twbs/bootstrap,162114,4233,{'totalCount': 8176},{'totalCount': 83},{'name': 'JavaScript'},{'totalCount': 21796},{'totalCount': 21539},0.9882088456597541,2023-03-02T00:13:23Z
+CyC2018/CS-Notes,162012,1842,{'totalCount': 375},{'totalCount': 0},,{'totalCount': 558},{'totalCount': 439},0.7867383512544803,2023-03-02T00:36:05Z
+vinta/awesome-python,158547,3169,{'totalCount': 530},{'totalCount': 0},{'name': 'Python'},{'totalCount': 496},{'totalCount': 478},0.9637096774193549,2023-03-02T00:24:44Z
+ohmyzsh/ohmyzsh,155925,4933,{'totalCount': 2841},{'totalCount': 0},{'name': 'Shell'},{'totalCount': 4385},{'totalCount': 4168},0.9505131128848346,2023-03-02T00:24:31Z
+TheAlgorithms/Python,154377,2419,{'totalCount': 2153},{'totalCount': 0},{'name': 'Python'},{'totalCount': 1226},{'totalCount': 1209},0.9861337683523654,2023-03-02T00:34:26Z
+flutter/flutter,150742,2916,{'totalCount': 29813},{'totalCount': 0},{'name': 'Dart'},{'totalCount': 79207},{'totalCount': 67818},0.8562122034668653,2023-03-02T00:33:15Z
